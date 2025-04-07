@@ -1,0 +1,21 @@
+repository_name: Your Repository Title
+author: Your name
+license: What license to declare
+description: Describe your repository
+keywords: [node, invokeai, python, stablediffusion]
+requirements:
+  - invokeai>=4
+  - any other manual install requirements?
+intro: |
+  Place whatever markdown you want here, to go before the
+  auto-generated docs. Like this:
+
+  ### Installation:
+
+  To install these nodes, simply place the folder containing this
+  repository's code (or just clone the repository yourself) into your
+  `invokeai/nodes` folder.
+
+outro: |
+  You can put more markdown here to go in a "Footnotes" section at the
+  end.
